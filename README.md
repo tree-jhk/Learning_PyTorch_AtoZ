@@ -1,8 +1,10 @@
 # Learning_PyTorch_AtoZ
 
+
+<p align ="center">
 ![image](https://user-images.githubusercontent.com/97151660/177296350-b43bd069-65c9-4d5e-abf0-99aaa73f1527.png)
 
-##### 1 -> 2 -> 3 -> 순서로 공부했습니다. 이 순서로 반복 학습도 하면서 더 심화적인 내용을 쉽게 접할 수 있었습니다.
+### 1 -> 2 -> 3 순서로 공부했습니다. 이 순서로 반복 학습도 하면서 더 심화적인 내용을 쉽게 접할 수 있었습니다.
 
 ### 1. WHAT_IS_TORCH.NN_REALLY.ipynb 설명  
 
