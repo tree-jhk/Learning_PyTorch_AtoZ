@@ -1,8 +1,8 @@
 # Learning_PyTorch_AtoZ
 
-1 -> 2 -> 3 -> 순서로 공부했습니다. 이 순서로 반복 학습도 하면서 더 심화적인 내용을 쉽게 접할 수 있었습니다.
+##### 1 -> 2 -> 3 -> 순서로 공부했습니다. 이 순서로 반복 학습도 하면서 더 심화적인 내용을 쉽게 접할 수 있었습니다.
 
-1. WHAT_IS_TORCH.NN_REALLY.ipynb 설명  
+### 1. WHAT_IS_TORCH.NN_REALLY.ipynb 설명  
 
   WHAT_IS_TORCH.NN_REALLY.ipynb는 torch.nn을 직접 구현하는 단계에서부터 시작합니다.#
   DataLoader, Dataset, torch.nn, torch.optim 등 없이 아주 기본적인 PyTorch Tensor 도구들과 numpy를 활용해서 구현부터 시작합니다.  
@@ -17,7 +17,7 @@
   원문: https://pytorch.org/tutorials/beginner/nn_tutorial.html  
   번역문: https://tutorials.pytorch.kr/beginner/nn_tutorial.html  
 
-2. PyTorch_Tutorial 파일 설명  
+### 2. PyTorch_Tutorial 파일 설명  
 
   PyTorch_Tutorial 파일은 다음으로 구성되어 있습니다.  
   PyTorch_Tutorial 부터는 PyTorch에서 제공하는 함수들과 라이브러리들에 대해서 조금 더 자세히 알 수 있습니다.
