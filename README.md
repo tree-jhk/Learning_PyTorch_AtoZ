@@ -32,7 +32,7 @@
 
   (2) Transform.ipynb  
       원문: https://pytorch.org/tutorials/beginner/basics/transforms_tutorial.html
-      번역문: https://tutorials.pytorch.kr/beginner/basics/transforms_tutorial.html#transform
+      번역문: https://tutorials.pytorch.kr/beginner/basics/transforms_tutorial.html#transform  
 
   (3) Build_Nueral_Network.ipynb  
       원문: https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html  
