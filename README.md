@@ -19,8 +19,8 @@
     사이트에서 보내준 코드들을 모두 따라치면서 이해하고 주석으로 이해한 내용과 관련해서  
     추가적으로 공부한 부분들에 대해서 자세하게 풀어썼습니다.  
 
-    원문: https://pytorch.org/tutorials/beginner/nn_tutorial.html  
-    번역문: https://tutorials.pytorch.kr/beginner/nn_tutorial.html  
+    원문: <https://pytorch.org/tutorials/beginner/nn_tutorial.html>
+    번역문: <https://tutorials.pytorch.kr/beginner/nn_tutorial.html>
 
 ### 2. PyTorch_Tutorial 파일 설명  
 
