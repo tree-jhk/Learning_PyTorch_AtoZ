@@ -9,9 +9,9 @@
 
 ### 1. WHAT_IS_TORCH.NN_REALLY.ipynb 설명  
 
-  WHAT_IS_TORCH.NN_REALLY.ipynb는 torch.nn을 직접 구현하는 단계에서부터 시작합니다.#
+  WHAT_IS_TORCH.NN_REALLY.ipynb는 torch.nn을 직접 구현하는 단계에서부터 시작합니다.  
   DataLoader, Dataset, torch.nn, torch.optim 등 없이 아주 기본적인 PyTorch Tensor 도구들과 numpy를 활용해서 구현부터 시작합니다.  
-  구현된 부분들을 하나씩 PyTorch에서 제공하는 함수들로 refactoring하면서#
+  구현된 부분들을 하나씩 PyTorch에서 제공하는 함수들로 refactoring하면서  
   CNN 신경망 생성까지 굉장히 step_by_step으로 알려주면서 모를만 한 부분들은 모두 알려주고  
   당장은 몰라도 될 부분들(옵티마이저들의 세분적이고 이론적인 부분들)은 생략합니다.  
   따라서 PyTorch를 처음 접하는 사람들한테 매우 적합합니다.  
